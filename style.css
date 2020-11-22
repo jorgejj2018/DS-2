@@ -38,7 +38,6 @@ border-radius: 1%;
     align-items: center;
 }
 .header-up  div{
-    background-color: var(--fondo-div);
     width: 30%;
     height:8vh;
 }
@@ -47,7 +46,7 @@ border-radius: 1%;
     border-style:none;
     width: 10%;
     height:4vh;
-    background-color:var(--fondo-div);
+    background-color:var(--fondo-ctn-page);
     margin:5% 2%;
 }
 .header-up .menu button img{
